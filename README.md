@@ -18,12 +18,12 @@ Small helper nodes for ComfyUI workflows. They keep a workflow simple for artist
 
 ## Install
 
-**ComfyUI Manager:** *Install via Git URL* and paste this repository's URL.
+**ComfyUI Manager:** *Install via Git URL* and paste `https://github.com/sgworx/sgworx_nodes`.
 
 **Manually:**
 ```
 cd ComfyUI/custom_nodes
-git clone <this repository's URL> sgworx_nodes
+git clone https://github.com/sgworx/sgworx_nodes sgworx_nodes
 ```
 Restart ComfyUI. No extra Python packages are needed.
 
